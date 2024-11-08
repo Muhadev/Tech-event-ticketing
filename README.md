@@ -1,1 +1,1 @@
-# Tech-event-ticketing
+ # Tech Event Software
