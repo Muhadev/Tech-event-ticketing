@@ -15,3 +15,4 @@ src/
 ├── types/           # TypeScript definitions
 └── utils/           # Helper functions
 ```
+
